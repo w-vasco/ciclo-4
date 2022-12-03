@@ -1,0 +1,16 @@
+#content-container table {
+    border: 1px solid #c8c9cb;
+    background-color: #fff;
+    width: 95%;
+    text-align: center;
+    border-collapse: collapse;
+    margin: 15px auto;
+    border-radius: 4px;
+}
+
+.tabla-servicios-tarifas table thead tr th.sticky {
+    padding: 0.6rem !important;
+    box-sizing: border-box;
+    position: sticky !important;
+    box-shadow: #cccccc 5px 0px 6px -5px;
+}
